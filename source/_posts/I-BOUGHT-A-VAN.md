@@ -10,7 +10,10 @@ I've been planning and anticipating this day for a while now. It finally happene
 
 # I present to you, the Maker Van™
 
-![](https://i.imgur.com/JNqTpxc.jpg)
+<center>
+{% instagram BWNgijOgpTO %}
+</center>
+
 <small>The term Maker comes from [maker culture](https://en.wikipedia.org/wiki/Maker_culture) and the fact that I'll be building the van out myself. Once finished, the van will be a fully mobile maker workshop.</small>
 
 The hard part's over... now I just have to:

@@ -867,6 +867,10 @@ hexo-server@^0.2.0:
     opn "^4.0.0"
     serve-static "^1.10.0"
 
+hexo-tag-instagram@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/hexo-tag-instagram/-/hexo-tag-instagram-1.0.2.tgz#cc0942f03cd4db4b22c9532e312bb806e6c9be39"
+
 hexo-util@^0.6.0:
   version "0.6.0"
   resolved "https://registry.yarnpkg.com/hexo-util/-/hexo-util-0.6.0.tgz#b5719cc2d44d9d45522dddcf96143919824b7803"
