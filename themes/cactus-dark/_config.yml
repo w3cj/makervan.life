@@ -31,9 +31,8 @@ customize:
         instagram: https://www.instagram.com/makervanlife
         twitch: https://twitch.tv/w3cj
         youtube: https://www.youtube.com/c/CJReynolds-Galvanize
-        meetup: https://www.meetup.com/members/39245842
         twitter: https://twitter.com/cjr2d2
-    show_all_posts: false
+    show_all_posts: true
     post_count: 5
     highlight: rainbow
 
